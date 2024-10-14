@@ -6,8 +6,7 @@ Este é o projeto de análise de dados de tráfego aéreo e emissões de CO2, de
 
 **Ferramentas Utilizadas**
 
-![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-00000F.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-00000F.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikitlearn](https://img.shields.io/badge/scikitlearn-00000F.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)[![POSTGRESQL](https://img.shields.io/badge/POSTGRES-00000F?style=for-the-badge&logo=POSTGRESQL&logoColor=white)]()![Docker](https://img.shields.io/badge/docker-00000F.svg?style=for-the-badge&logo=docker&logoColor=white)![Power BI](https://img.shields.io/badge/PowerBi-00000F.svg?style=for-the-badge&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-00000F.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-00000F.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikitlearn](https://img.shields.io/badge/scikitlearn-00000F.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)[![POSTGRESQL](https://img.shields.io/badge/POSTGRES-00000F?style=for-the-badge&logo=POSTGRESQL&logoColor=white)]()![Docker](https://img.shields.io/badge/docker-00000F.svg?style=for-the-badge&logo=docker&logoColor=white)![Power BI](https://img.shields.io/badge/PowerBi-00000F.svg?style=for-the-badge&logoColor=white)  
 
 # Descrição do Projeto
 

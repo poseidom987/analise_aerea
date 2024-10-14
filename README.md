@@ -56,7 +56,7 @@ Foram gerados gráficos para análise das emissões de CO2 e tráfego aéreo por
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Anual](img/anual.png)
 
 **Graficos mensais/por territorio:**
 
@@ -67,7 +67,7 @@ Foram gerados gráficos para análise das emissões de CO2 e tráfego aéreo por
 - Eficiênciade CO2 por Mês e por Pais :nálise mensal por pais para entender a eficiência de CO2 por voo ao longo do ano.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Mensal/territorial](img/anual.png)
 
 
 

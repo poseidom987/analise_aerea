@@ -3,7 +3,8 @@ Olá!
 
 Este é o projeto de análise de dados de tráfego aéreo e emissões de CO2, desenvolvido utilizando Python, PostgreSQL, Power BI e ferramentas de visualização como Matplotlib e Seaborn. O objetivo do projeto é estudar a relação entre a quantidade de voos e as emissões de CO2 por diferentes países e períodos.
 
-Ferramentas Utilizadas
+**Ferramentas Utilizadas**
+
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-00000F.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-00000F.svg?style=for-the-badge&logo=pandas&logoColor=white)

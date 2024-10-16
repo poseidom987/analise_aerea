@@ -55,3 +55,6 @@ Foram gerados gráficos para análise das emissões de CO2 e tráfego aéreo por
 - Eficiência de CO2 por Mês e por País: Análise mensal por país para entender a eficiência de CO2 por voo ao longo do ano.
 
 ![Mensal/Territorial](img/mensal_regional.png)
+
+
+![Ranking](img/ranking.png)

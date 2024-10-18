@@ -56,5 +56,9 @@ Foram gerados gráficos para análise das emissões de CO2 e tráfego aéreo por
 
 ![Mensal/Territorial](img/mensal_regional.png)
 
+**Gráficos com Ranking dos países:**
+- Ranking dos países que mais emitiram CO2: Análise total por país para conseguir observar quais países emitiram mais CO2.
+- Ranking dos países que tiveram o maior trafego de voos: Análise total por país para conseguir observar quais países tiveram o maior trafego de aeronaves.
+- Ranking dos países que tiveram a menor eficiência em emissão de CO2: Análise total por país para conseguir observar quais países tiveram a menor eficiência na emissão de CO2 por voo.
 
 ![Ranking](img/ranking.png)
